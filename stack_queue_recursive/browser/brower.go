@@ -1,6 +1,6 @@
 package browser
 
-import "go-learn/internal/algo/stack_queue_recursive/stack"
+import "algo/stack_queue_recursive/stack"
 
 type Browser struct {
 	prev *stack.ArrayStack
